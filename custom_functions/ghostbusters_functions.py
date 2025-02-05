@@ -6,4 +6,4 @@ def ghost(ghost, location = "New York City"):
     # a part of that function!
 
 ghost("Slimer")
-ghost("Stay Puft", "London")
+ghost("Stay Puft", "London"
