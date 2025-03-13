@@ -71,7 +71,7 @@ B1 B2 B3
 # You can also use nested list comprehensions to initialize a multidimensional list
 # for example lets say we want to create a list to represent the following table:
 # 1 2 3 4 5 
-# 1 2 3 4 5 
+# 1 2 3 4 5 if 
 # 1 2 3 4 5 
 # 1 2 3 4 5 
 table = [i for i in range(1,6)]
